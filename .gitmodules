@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Inayat-1989/FYP-Backend.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Inayat-1989/FYP-Frontend.git
+	branch = main
